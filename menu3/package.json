@@ -1,0 +1,11 @@
+{
+  "name": "menu3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass --watch ./lafrancaise.scss:lafrancaise.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
